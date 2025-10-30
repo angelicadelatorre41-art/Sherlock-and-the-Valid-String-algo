@@ -1,1 +1,1 @@
-# Sherlock-and-the-Valid-String-algo
+# Sherlock-and-the-Valid-String-algo The program counts how often each character appears in the string. If all characters have the same frequency, or one character can be removed to make them equal, the string is valid ("YES").
